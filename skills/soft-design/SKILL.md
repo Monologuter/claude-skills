@@ -1,3 +1,9 @@
+---
+name: soft-design
+description: Opinionated full-stack engineering conventions (Spring Boot + MyBatis + MySQL + Vue 3 + TypeScript) for consistent, secure, observable delivery.
+license: Internal
+---
+
 ## 1. 技术栈约定
 
   - 后端：Spring Boot + MyBatis（建议 MyBatis-Plus 也可，但规则一致）+ MySQL
